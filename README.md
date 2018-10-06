@@ -15,7 +15,7 @@ Either the editors or the person on the day shift will know what's running in th
 
 **Once you have a better grasp on what's happening**, knock a few quick things out:
   1. Schedule a tweet using [Social Flow](https://www.socialflow.com/publish#) for between 3:30 and 4 pm. You can set it to `Optimize` and `Must send` within 30 minutes. Chances are, the twitter has gone stale _especially_ if it's Saturday. Send a single tweet out just to give yourself 2 more hours time to get things done. Use Social Flow's default option to shorten the url, whether or not it's already shortened, to enable tracking. To include images in your tweets, take a screenshot from your Macbook.
-  
+
   2. Update the homepage in [PageBuilder](https://washpost.arcpublishing.com/pb/admin/app/browse/pages.html). Go to `Home Page > Visual Stories - for Homepage`. We have slots 2 and 3. Go ahead and open [Trello](https://trello.com/b/loxfgmVV/graphics-docket) and look at the column "Flag for Viz Slots." You'll need it. So, you can update the hp in two ways: **Option 1.** If the slots are filled with content that is still very relevant _or_ we just don't have that much to choose from in the trello, look at the sidebar for `main-content`. Hover over the three line icon and swap our two slots. Super simple. Then `preview commit > stage and publish` (so long as everything looks right). **Option 2:** Choose a slot to edit by hovering over it and clicking the ✏️ icon. Pause and  Choose one that either hasn't been on the homepage in a while or is relevant to the news. Grab the URL and throw it in the [Graphics App to Methode Finder](http://newsapps.washpost.com/modlib/graphics-finder/). You need the **Methode URL**. Once you have that, add go back to PageBuilder and look for the `Path` field. Paste the Methode URL. Press update (this won't update the homepage yet). Navigate back to the page editor then same thing—`preview commit > stage and publish`. That's it!
 
 **Don't forget, you're basically an editor right now.** If it's Saturday, you need to attend the 5 o'clock meeting. Tim Curren runs the meeting. You'll be asked how you like the front page and walked through the other section fronts. People will generally just agree that it looks good. Then, at the end, they'll go through things they're thinking for tomorrow's paper. Take notes. Ask about graphics if you need to.
@@ -63,6 +63,6 @@ If you can't get it or you're uncomfortable, just hit up `#homepage` for help.
 
 Just include what went into print that day, what is left in the `Weekend` column of the trello and if you have any small notes, I include those, too. For example, if someone missed moving a graphic to published, just update the card with the correct information, move it to the bin and make a note so they know.
 
-Head home but stay on call for emergancies.
+Head home but stay on call for emergencies.
 
 **When do I fully sign off?** 11:30pm. It's late, I KNOW. But I generally leave the office between 10 and 10:30pm so by the time I get home, it's 11pm. Then I get ready for bed and check slack one more time at 11:30pm to make sure nothing's exploded and I call it a night.
