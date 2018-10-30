@@ -29,9 +29,13 @@ It's always good to take the list of graphics you got from the editors or day sh
     * **Method 1:** Check the paper layout `File > Quick Open > WP-YYYYMMDD-Daily.prp`. It's always the last file in the list and don't foget to always check **read only**. Use the `+` to navigate to the different sections and try to find anything with a chart symbol in place. Those have about a 66% of being from our team. Right click and open read only to investigate further.
     * **Method 2:** Check the topic plan `Topics > Browse Topic Plans`. You can easily see all the slugs that _could_ run. You should do both to keep all your bases covered.
 2. `#booking` and `#mpeds` channels in slack: These channels will be your best friends on the night shift, and they often overlap with the same content. Booking is run by the editors and designers. Look for the print booking for the day. It'll look something like this:
+
 ![booking](imgs/booking.png)
+
     MPEds has the copy editors. Look for the proofing assignments. It'll look something like this:
+
 ![proofing](imgs/proofing.png)
+
     **Important note:** Booking only talks about the A section. Graphics can and do run in any of the sections. Keep an eye out in MPEds for a better picture of what will run in the rest of the paper.
 3. [Slugger](http://toolbox.washpost.com/slugger/): This has all the MPEd assignments for the paper. Doing this is a repeat of looking at the proofing assingments, but it's a bit easier to see the status of stories on Slugger. Do a quick scan to find out both who is editing the stories you have graphics for to find out if there are things booked with matching graphic slugs that you didn't know about.
 
@@ -39,7 +43,8 @@ For each graphic, you'll need to:
 1. Send to the MPEd for the story. You'll find them in `#mpeds` or on Slugger. Even if it's explicitly mentioned to have been copy edited on the Trello card, the MPEds want to see it before it goes to print. Also send to MPEds every time there's an update made or it runs again. Just send a nice little message with a screengrab over Slack. They'll request if they want to review the graphic sent in a different way. Generally, they don't. Make the changes and upload to Methode.
 2. Check for rich black. Open the file (they could be in Methode, they could be in Dropbox. Sometimes, it's a mystery!)  You can check by selecting black text then going to `Select > Same > Fill and Stroke`. Then you'll be able to quickly see what the graphic is using. Another awesome shortcut is to open the `Separations Preview` panel. It's really easy to see what's on each printer plate that way.
 3. Check the print layout to make sure **1.** the graphic isn't cut off and **2.** the graphic is in the right colorscale. Same way as before, `File > Quick Open > WP-YYYYMMDD-Daily.prp` etc. When you look at the page it's running on from the overview, you can see little boxes that'll indicate whether it's a color or black and white page. If it's in color, you're good. If it's in black and white, you'll have to bring it into illustrator and convert it. To quickly do so, go to `Edit > Edit colors > Convert to greyscale`. You might have to tweak it to make sure it looks good and the colors are differenciated enough.
-![color-bw](imgs/color-bw.png)
+
+![color-bw](imgs/color-bw.jpg)
 
 *Notes:*
 * Get all the graphics finished as soon as possible. The first round of the paper usually closes around 8:30pm, so aim for all things being set by 7:30pm.
