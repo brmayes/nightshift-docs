@@ -44,7 +44,7 @@ For each graphic, you'll need to:
 2. Check for rich black. Open the file (they could be in Methode, they could be in Dropbox. Sometimes, it's a mystery!)  You can check by selecting black text then going to `Select > Same > Fill and Stroke`. Then you'll be able to quickly see what the graphic is using. Another awesome shortcut is to open the `Separations Preview` panel. It's really easy to see what's on each printer plate that way.
 3. Check the print layout to make sure **1.** the graphic isn't cut off and **2.** the graphic is in the right colorscale. Same way as before, `File > Quick Open > WP-YYYYMMDD-Daily.prp` etc. When you look at the page it's running on from the overview, you can see little boxes that'll indicate whether it's a color or black and white page. If it's in color, you're good. If it's in black and white, you'll have to bring it into illustrator and convert it. To quickly do so, go to `Edit > Edit colors > Convert to greyscale`. You might have to tweak it to make sure it looks good and the colors are differenciated enough.
 
-![color-bw](imgs/color-bw.jpg =300x)
+![color-bw](imgs/color-bw.jpg)
 
 *Notes:*
 * Get all the graphics finished as soon as possible. The first round of the paper usually closes around 8:30pm, so aim for all things being set by 7:30pm.
@@ -76,7 +76,7 @@ If you can't get it or you're uncomfortable, just hit up `#homepage` for help.
     * **To send the night note**, go to Slack and scroll to your Apps. Search for `graphicsbot`. Send a test to my email. Just type `test` and send. It'll give you feedback and send you a test night note. Check it and make sure all looks good. When you're ready to send, just type `send` and confirm.
 3. If it's Saturday, send a weekend passoff note to the person working the weekend day shift, the person working the Sunday night shift (Usually Aaron Steckelberg) and NEWS - Infographics Editors <graphicseds@washpost.com>. Super simple. Here's about what it should look like:
 
-![passoff note](imgs/passoff.png =600x)
+![passoff note](imgs/passoff.png)
 
 Just include what went into print that day, what is left in the `Weekend` column of the trello and if there are any small notes, include those, too. For example, if someone missed moving a graphic to published, just update the card with the correct information, move it to the bin and make a note so they know.
 
