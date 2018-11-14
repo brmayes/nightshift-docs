@@ -8,7 +8,9 @@ The night shift is meant to keep graphics staffed later in the day in case of br
 #### Getting started
 The shift hours are from 2:30 to 10:30 pm, but those times are squishy. Aim to be at the office no later than 3:30 pm because generally, it's a good idea to monitor slack until around 11:30 pm (even if you've already commuted home).
 
-**First things first:** When you get into the office, check with Tim (or another editor) if you're working a weekday. On the weekend, check in with the person on the day shift. The day shifter goes to the 1 pm meeting and will usually have already communicated with the editor on call.
+**First things first:** When you get into the office, it's a good idea to announce yourself when you get into the office so folks know who is on duty. In `booking` and `mpeds` drop a line saying you're in office and you're on the night shift. Do this _especially_ if you're filling in for someone.  
+
+After that, check with Tim (or another editor) if you're working a weekday. On the weekend, check in with the person on the day shift. The day shifter goes to the 1 pm meeting and will usually have already communicated with the editor on call.
 
 Either the editors or the person on the day shift will know what's running in the paper the next day. Booking for the paper changes often so sometimes, they won't. We'll get to that.
 
@@ -79,7 +81,8 @@ If you can't get it or you're uncomfortable, just hit up `#homepage` for help.
 ![passoff note](imgs/passoff.png)
 
 Just include what went into print that day, what is left in the `Weekend` column of the trello and if there are any small notes, include those, too. For example, if someone missed moving a graphic to published, just update the card with the correct information, move it to the bin and make a note so they know.
+4. Announce that you're on your way out. Generally just dropping a note in the `#graphics-team` channel saying that graphics is going offline for the evening is all that takes. 
 
-Head home and, if you feel so inclined, stay on call for emergencies.
+Head home and, if you feel so inclined, stay on call for last minute changes and emergencies.
 
 **When do I fully sign off?** 11:30pm is a safe bet. It's late but it's nice to commute home then take a look at slack one more time before you fully sign off to make sure nothing's exploded. Finally,  call it a night.
