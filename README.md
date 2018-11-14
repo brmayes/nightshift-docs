@@ -23,7 +23,7 @@ Either the editors or the person on the day shift will know what's running in th
         * **Option 1.** If the slots are filled with content that is still very relevant _or_ we just don't have that much to choose from in trello, look at the sidebar for `main-content`. Hover over the three line icon and swap our two slots. Super simple. Then `preview commit > stage and publish` (so long as everything looks right).
         * **Option 2:** Choose a slot to edit by hovering over it and clicking the ✏️ icon. Go to trello and find a project to update with. Grab the URL and throw it in the [Graphics App to Methode Finder](http://newsapps.washpost.com/modlib/graphics-finder/). You need the **Methode URL**. Once you have that, add go back to PageBuilder and look for the `Path` field. Paste the Methode URL. Press update (this won't update the homepage yet). Navigate back to the page editor then same thing—`preview commit > stage and publish`.
 
-**You're representing graphics.** On weekdays, the booking meeting is at 4 pm. The editors usually go to this. If it's the weekend, you need to attend the 5 o'clock meeting. Tim Curren runs the meeting. Everyone is asked how they like the front page and walked through the other section fronts. People will generally just agree that it looks good. Then, at the end, they'll go through things they're thinking for Monday's paper. Take notes. Ask about graphics if you need to.
+**You're representing graphics.** On weekdays, the booking meeting is at 4 pm. The editors usually go to this. If it's the weekend, you need to attend the 5 o'clock meeting. Tim Curran runs the meeting. Everyone is asked how they like the front page and walked through the other section fronts. People will generally just agree that it looks good. Then, at the end, they'll go through things they're thinking for Monday's paper. Take notes. Ask about graphics if you need to.
 
 #### Taking care of print graphics
 It's always good to take the list of graphics you got from the editors or day shifter with a grain of salt. Booking changes all the time so do some investigating of your own. Scan trello for slugs then check the following places to get a better idea of what's running (hopefully, it's what you already know about). Places to look:
@@ -81,7 +81,7 @@ If you can't get it or you're uncomfortable, just hit up `#homepage` for help.
 ![passoff note](imgs/passoff.png)
 
 Just include what went into print that day, what is left in the `Weekend` column of the trello and if there are any small notes, include those, too. For example, if someone missed moving a graphic to published, just update the card with the correct information, move it to the bin and make a note so they know.
-4. Announce that you're on your way out. Generally just dropping a note in the `#graphics-team` channel saying that graphics is going offline for the evening is all that takes. 
+4. Announce that you're on your way out. Generally just dropping a note in the `#graphics-team` channel saying that graphics is going offline for the evening is all that takes.
 
 Head home and, if you feel so inclined, stay on call for last minute changes and emergencies.
 
