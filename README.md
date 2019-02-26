@@ -61,9 +61,25 @@ Don't worry. Check in with the designer first. Find them in `#booking`, `#asec-c
 
 Offer the graphic(s) up to them. They don't _have_ to run it in print, but it's possible they didn't know about it especially if it wasn't in the package. If they want it, you might have to resize it and upload a new print version for them. Always establish the amount of space you have (number of cols and pt. depth).
 
-Chances are, if it's running in print, it might have already run on the web. Another mystery: if that's true. Quite honestly, I just google and check the author's page to see if the story is pubbed. You can also look in Methode at the web channel and see if there's a URL. Once you find it, make sure the graphic is in the story. If it's not, add it. If it's in the normal template, just drag and drop to a slot at the bottom (generally the secondary slot, the primary). If it's in the features template, drag and drop it where you see fit and use the "inline" option. For one column graphics, it should be put in as 296 width, for larger things, use the full with 600.
+Chances are, if it's running in print, it might have already run on the web. Another mystery: if that's true. Quite honestly, I just google and check the author's page to see if the story is pubbed.
+
+**If it's in Methode...**
+You can also look in Methode at the web channel and see if there's a URL. Once you find it, make sure the graphic is in the story. If it's not, add it. If it's in the normal template, just drag and drop to a slot at the bottom (generally the secondary slot, the primary). If it's in the features template, drag and drop it where you see fit and use the "inline" option. For one column graphics, it should be put in as 296 width, for larger things, use the full with 600.
 
 Don't forget to republish! `Tools > Actions > Check in`, then `Tools > Actions > Publish`.
+
+**If it's in Ellipsis...**
+1. Upload the graphic to Anglerfish by going to [Arc](https://washpost.arcpublishing.com) > [Anglerfish](https://washpost.arcpublishing.com/photo/?offset=0).
+2. In the upper righthand corner, click "Upload photo".
+    * For the photographer, keyword, credit and source, put "The Washington Post".
+3. Navigate to [Ellipsis](https://washpost.arcpublishing.com/ellipsis/). You can do this by going back to Arc > Ellipsis.
+4. Search for and open the story. Find where you'd like to add the graphic.
+5. Press enter to load a set of options. Click "image".
+6. Find your graphic in Anglerfish.
+7. Press "edit info" and remove all visible metadata.
+8. Save in the upper right hand corner. Don't forget to republish! Update in the upper left.
+
+If have a one column graphic, float it by clicking on the image and changing the text alignment to float right. 
 
 If you can't get it or you're uncomfortable, just hit up `#homepage` for help. If you have a problem, ask `#publishing-support`.
 
